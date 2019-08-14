@@ -15,5 +15,6 @@ Instructions
 
 ## The correct answer is:
 - c ) "The correct answer to this multiple choice exercise is answer number " + 2
+    > TypeError: can only concatenate str (not "int") to str
 
 for more visit my **[blog](https://chiarabdi.netlify.com/blog/)**
